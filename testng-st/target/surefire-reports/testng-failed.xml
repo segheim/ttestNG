@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [by.htp.testng.testng_st.AppTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="by.htp.testng.testng_st.AppTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="test1"/>
+          <include name="beforeClass"/>
+          <include name="afterSuite"/>
+          <include name="afterMethod"/>
+          <include name="afterClass"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- by.htp.testng.testng_st.AppTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [by.htp.testng.testng_st.AppTest] -->
